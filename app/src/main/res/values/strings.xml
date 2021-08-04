@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="fast_and_secure_chat_with_us">Fast and secure, chat with us!</string>
+    <string name="start_messaging">Start messaging</string>
+    <string name="enter_your_details">Enter your details:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="next">Next</string>
+    <string name="enter_your_country_code_and_phone_number_correctly">Enter your country code and phone number correctly.</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname</string>
+    <string name="username">Username:</string>
+    <string name="save">Save</string>
+</resources>
